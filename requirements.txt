@@ -17,4 +17,4 @@ pandas                          # For data manipulation and attendance records
 SQLAlchemy                      # For database management
 
 # Jupyter Notebook              # For interactive environment
-jupyter-notebook
+jupyter
