@@ -4,8 +4,8 @@ mtcnn==0.1.0                    # For face detection
 dlib==19.22.1                   # Optional for face detection or landmark detection
 
 # Deep Learning Libraries
-# tensorflow==2.8.0               # For deep learning models
-# torch==1.11.0                   # PyTorch for facial recognition (can be replaced with TensorFlow if needed)
+tensorflow==2.8.0               # For deep learning models
+torch==1.11.0                   # PyTorch for facial recognition (can be replaced with TensorFlow if needed)
 facenet-pytorch==2.5.2          # Pretrained FaceNet model for face recognition
 
 # Data and Utility Libraries
