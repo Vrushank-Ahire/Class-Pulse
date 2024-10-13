@@ -1,7 +1,7 @@
 # Computer Vision Libraries
 opencv-python                   # For image and video processing
 mtcnn                           # For face detection
-dlib                            # Optional for face detection or landmark detection
+# dlib                            # Optional for face detection or landmark detection
 
 # Deep Learning Libraries
 tensorflow                      # For deep learning models
@@ -18,3 +18,4 @@ SQLAlchemy                      # For database management
 
 # Jupyter Notebook              # For interactive environment
 jupyter
+flask
